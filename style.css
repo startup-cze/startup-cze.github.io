@@ -1,7 +1,23 @@
+/*
+Colors:
+#dda963
+#c9814b
+#25272a
+#dbc1af
+#cf6a4f
+#e0b94a
+#b2af5c
+#a7a79e
+#9b6970
+
+https://lospec.com/palette-list/painted-parchment-9
+*/
+
 html {
   background-image: url("texture.jpg");
 }
 
 h1 {
   font-family: 'Dekko', cursive;
+  color: #25272a;
 }
