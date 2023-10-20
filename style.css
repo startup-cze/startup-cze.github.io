@@ -1,3 +1,7 @@
-body {
+html {
   background-image: url("texture.jpg");
+}
+
+h1 {
+  font-family: 'Dekko', cursive;
 }
