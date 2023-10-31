@@ -15,6 +15,7 @@ https://lospec.com/palette-list/painted-parchment-9
 
 html {
     background-image: url("texture.jpg");
+    backdrop-filter: blur(1px);
 }
 
 h1 {
