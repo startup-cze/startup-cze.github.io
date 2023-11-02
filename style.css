@@ -13,7 +13,7 @@ Colors:
 https://lospec.com/palette-list/painted-parchment-9
 */
 
-.container {
+body {
     background-image: url("texture.jpg");
     backdrop-filter: blur(1px);
 }
