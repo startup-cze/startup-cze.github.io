@@ -21,18 +21,14 @@ body {
 h1 {
     font-family: 'Dekko', cursive;
     color: #25272a;
-    /*
-    font-size: 3.5vh;
-    */
+    font-size: 5vw;
     text-decoration: underline;
 }
 
 p {
     font-family: 'Dekko', cursive;
     color: #25272a;
-    /*
-    font-size: 3vh;
-    */
+    font-size: 3vw;
 }
 
 /*
