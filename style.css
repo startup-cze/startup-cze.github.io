@@ -43,8 +43,8 @@ p {
     text-align: justify;
 }
 
-.image-fluid {
-    filter: blur(0.3px);
+.blur {
+    filter: blur(1px);
 }
 
 /*
