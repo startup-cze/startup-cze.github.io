@@ -44,7 +44,7 @@ p {
 }
 
 .image-fluid {
-    backdrop-filter: blur(0.3px);
+    filter: blur(0.3px);
 }
 
 /*
