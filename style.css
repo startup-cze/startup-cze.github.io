@@ -43,6 +43,10 @@ p {
     text-align: justify;
 }
 
+.image-fluid {
+    backdrop-filter: blur(0.3px);
+}
+
 /*
 .mt-2 {
     margin-top: 2rem;
