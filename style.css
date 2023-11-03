@@ -25,6 +25,13 @@ body {
 h1 {
     font-family: 'Dekko', cursive;
     color: #25272a;
+    font-size: 5vw;
+    text-decoration: underline;    
+}
+
+h2 {
+    font-family: 'Dekko', cursive;
+    color: #25272a;
     font-size: 3vw;
     text-decoration: underline;
 }
